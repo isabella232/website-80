@@ -1,0 +1,5 @@
+remote_theme: "mmistakes/so-simple-theme"
+title: Mana
+description: Mana is an Elixir-based Ethereum client under MIT license.
+layout: default
+logo: ./logo.png
